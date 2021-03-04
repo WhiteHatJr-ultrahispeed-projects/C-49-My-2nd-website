@@ -1,0 +1,23 @@
+h1{
+    color:peru;
+}
+* {
+    border:solid;
+}
+.header{
+    background-color:rebeccapurple;
+    display:flex;
+    justify-content:space-evenly;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+html {
+    background-image: url("Hatboy_Studios.jpg"); 
+  }
