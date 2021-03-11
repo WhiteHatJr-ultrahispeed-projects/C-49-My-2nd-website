@@ -1,5 +1,5 @@
 h1{
-    color:peru;
+    color:#aa9a99;
 }
 * {
     border:solid;
@@ -20,4 +20,15 @@ h1{
 }
 html {
     background-image: url("Hatboy_Studios.jpg"); 
+  }
+  body{
+      background-color: rgb(63,85,79);
+  }
+
+  p{
+      color:#257abc
+    
+  }
+  image{
+      color:#7868ab
   }
